@@ -49,8 +49,8 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 
 
-- **A survey on video diffusion models**  
-  Zhen Xing, Qijun Feng, **Haoran Chen**, Qi Dai, Han Hu, Hang Xu, Zuxuan Wu, Yu-Gang Jiang
+- **A Survey on Video Diffusion Models**  
+  Zhen Xing, Qijun Feng, **Haoran Chen**, Qi Dai, Han Hu, Hang Xu, Zuxuan Wu, Yu-Gang Jiang  
   ACM Computing Survey (**CSUR**, IF=23.8), 2024  
   [\[Paper\]](https://arxiv.org/abs/2310.10647)
 
