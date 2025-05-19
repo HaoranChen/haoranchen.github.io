@@ -29,7 +29,7 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 
 - **PromptFusion: Decoupling Stability and Plasticity for Continual Learning**  
-  Haoran Chen\*, Xintong Han, Menglin Jia, Zuxuan Wu, Yu-Gang Jiang 
+  Haoran Chen\*, Xintong Han, Menglin Jia, Zuxuan Wu, Yu-Gang Jiang  
   European Conference on Computer Vision (**ECCV**), 2024  
   [\[Paper\]](https://arxiv.org/abs/2303.07223) [\[Code\]](https://github.com/haoranchen/promptfusion)
 
