@@ -21,20 +21,50 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 ## Publications
 
-- [**Adaptive Retention and Correction for Continual Learning**](https://arxiv.org/abs/2405.14318v4)  
-  International Conference on Learning Representations (**ICLR**), 2025  
-  **Haoran Chen\***, Coauthor1, Coauthor2, Coauthor3
+**Adaptive Retention and Correction for Continual Learning**  
+Haoran Chen\*, Micah Goldblum, Zuxuan Wu, Yu-Gang Jiang  
+International Conference on Learning Representations (**ICLR**), 2025  
+[Paper](https://arxiv.org/abs/2405.14318v4)[Code](https://github.com/HaoranChen/Adaptive-Retention-and-Correction-for-Continual-Learning)
 
-- [**PromptFusion: Decoupling Stability and Plasticity for Continual Learning**](https://arxiv.org/abs/2303.07223)  
-  European Conference on Computer Vision (**ECCV**), 2024  
-  **Haoran Chen\***, Coauthor1, Coauthor2, Coauthor3
+<br>
 
-- [**Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation**](https://arxiv.org/abs/2209.15210)  
-  Neural Information Processing Systems (**NeurIPS**), 2023  
-  **Haoran Chen\***, Coauthor1, Coauthor2, Coauthor3
+**PromptFusion: Decoupling Stability and Plasticity for Continual Learning**  
+Haoran Chen\*, Xintong Han, Menglin Jia, Zuxuan Wu, Yu-Gang Jiang 
+European Conference on Computer Vision (**ECCV**), 2024  
+[Paper](https://arxiv.org/abs/2303.07223)[Code](https://github.com/haoranchen/promptfusion)
 
+<br>
+
+**Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation**  
+Haoran Chen\*, Xintong Han, Zuxuan Wu, Yu-Gang Jiang  
+Neural Information Processing Systems (**NeurIPS**), 2023  
+[Paper](https://arxiv.org/abs/2209.15210)[Code](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
+
+<br>
+
+**EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation**
+Zihao Zhang, Haoran Chen\*, Haoyu Zhao, Guansong Lu, Yanwei Fu, Hang Xu, Zuxuan Wu
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2025
+[Paper](https://arxiv.org/abs/2503.15831)[Code](https://github.com/bbldCVer/EDEN)
+
+<br>
+
+**A survey on video diffusion models**
+Zhen Xing, Qijun Feng, Haoran Chen\*, Qi Dai, Han Hu, Hang Xu, Zuxuan Wu, Yu-Gang Jiang
+ACM Computing Survey (**CSUR**, IF=23.8), 2024
+[Paper](https://arxiv.org/abs/2310.10647)
 
 ## In Submission
+
+**Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**
+
+<br>
+
+**ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**
+
+<br>
+
+**MPA+: Multi-Prompt Progressive Alignment for Multi-Source Unsupervised Domain Adaptation**
 
 
 
