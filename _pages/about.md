@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the School of Computer Science, Fudan University, where I work under the supervision of Prof. Yu-Gang Jiang (IEEE Fellow) and Prof. Zuxuan Wu. Before this, I received my BS degree from the University of Michigan. My research interests include **continual learning**, **transfer learning**, and **large language models**. If you are interested in potential collaborations, please feel free to email me at chenhran21@m.fudan.edu.cn.
+I am a Ph.D. Candidate at the School of Computer Science, Fudan University, where I work under the supervision of Prof. Yu-Gang Jiang (IEEE Fellow) and Prof. Zuxuan Wu. Before this, I received my BS degree from the University of Michigan. My research interests include **continual learning**, **transfer learning**, and **large language models**. 
 
 ---
 
@@ -66,6 +66,11 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
   Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
   Neural Information Processing Systems (**NeurIPS**), 2025  
   [\[Paper\]](https://arxiv.org/abs/2411.19466)
+
+
+## Contact
+
+If you are interested in potential collaborations, please feel free to email me at [chenhran21@m.fudan.edu.cn](chenhran21@m.fudan.edu.cn).
 
 
 
