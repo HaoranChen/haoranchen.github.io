@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Publications
+layout: single
+title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
 - **Adaptive Retention and Correction for Continual Learning**  
