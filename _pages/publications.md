@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Adaptive Retention and Correction for Continual Learning**  
+- **Adaptive Retention & Correction: Test-Time Training for Continual Learning**  
   **Haoran Chen**, Micah Goldblum, Zuxuan Wu, Yu-Gang Jiang  
   International Conference on Learning Representations (**ICLR**), 2025  
   [\[Paper\]](https://arxiv.org/abs/2405.14318v4) [\[Code\]](https://github.com/HaoranChen/Adaptive-Retention-and-Correction-for-Continual-Learning)
