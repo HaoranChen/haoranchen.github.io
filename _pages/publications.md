@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 - **Adaptive Retention and Correction for Continual Learning**  
   **Haoran Chen**, Micah Goldblum, Zuxuan Wu, Yu-Gang Jiang  
   International Conference on Learning Representations (**ICLR**), 2025  
