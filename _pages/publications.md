@@ -38,15 +38,13 @@ author_profile: true
   ACM Computing Survey (**CSUR**, IF=23.8), 2024  
   [\[Paper\]](https://arxiv.org/abs/2310.10647)
 
-## In Submission
+## Arxiv Preprints
 
 - **Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**  
   **Haoran Chen**, Ping Wang, Zihan Zhou, Xu Zhang, Zuxuan Wu, Yu-Gang Jiang  
-  International Conference on Computer Vision (**ICCV**), 2025   
   [\[Paper\]](https://arxiv.org/abs/2503.07979)
 
 
 - **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
   Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
-  Neural Information Processing Systems (**NeurIPS**), 2025  
   [\[Paper\]](https://arxiv.org/abs/2411.19466)
