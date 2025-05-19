@@ -22,7 +22,7 @@ repository               : "https://github.com/HaoranChen/haoranchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "https://github.com/HaoranChen/haoranchen.github.io/blob/master/photo.png"
   name             : #""
   pronouns         : # example: "she/her"  
   bio              : #""
