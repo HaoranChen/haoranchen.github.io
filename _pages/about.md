@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. Candidate at the School of Computer Science, Fudan University, where I work under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from the University of Michigan. My research interests include **continual learning**, **transfer learning**, and **large language models**. If you are interested in potential collaborations, please feel free to [email](https://haoranchen.github.io/contact/) me.
 
----
+
 
 ## News
 
