@@ -23,7 +23,7 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 ## Publications
 
 - **Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**  
-  **Haoran Chen**, Ping Wang, Zihan Zhou, Xu Zhang, Zuxuan Wu, Yu-Gang Jiang
+  **Haoran Chen**, Ping Wang, Zihan Zhou, Xu Zhang, Zuxuan Wu, Yu-Gang Jiang  
   International Conference on Computer Vision (**ICCV**), 2025 
   [\[Paper\]](https://arxiv.org/abs/2503.07979)
 
