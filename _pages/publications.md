@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**  
+  **Haoran Chen**, Ping Wang, Zihan Zhou, Xu Zhang, Zuxuan Wu, Yu-Gang Jiang  
+  International Conference on Computer Vision (**ICCV**), 2025    
+  [\[Paper\]](https://arxiv.org/abs/2503.07979)
+
 - **Adaptive Retention & Correction: Test-Time Training for Continual Learning**  
   **Haoran Chen**, Micah Goldblum, Zuxuan Wu, Yu-Gang Jiang  
   International Conference on Learning Representations (**ICLR**), 2025  
@@ -39,11 +44,6 @@ author_profile: true
   [\[Paper\]](https://arxiv.org/abs/2310.10647)
 
 ## Arxiv Preprints
-
-- **Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**  
-  **Haoran Chen**, Ping Wang, Zihan Zhou, Xu Zhang, Zuxuan Wu, Yu-Gang Jiang  
-  [\[Paper\]](https://arxiv.org/abs/2503.07979)
-
 
 - **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
   Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
