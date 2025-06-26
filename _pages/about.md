@@ -13,6 +13,7 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 ## News
 
+- **2025.06**: One paper accepted at ICCV 2025!
 - **2025.02**: One paper accepted at CVPR 2025!
 - **2025.01**: One paper accepted at ICLR 2025!
 - **2024.05**: One paper accepted at ECCV 2024!
@@ -20,6 +21,13 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 
 ## Publications
+
+- **Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**  
+  **Haoran Chen**, Ping Wang, Zihan Zhou, Xu Zhang, Zuxuan Wu, Yu-Gang Jiang
+  International Conference on Computer Vision (**ICCV**), 2025 
+  [\[Paper\]](https://arxiv.org/abs/2503.07979)
+
+  
 
 - **Adaptive Retention & Correction: Test-Time Training for Continual Learning**  
   **Haoran Chen**, Micah Goldblum, Zuxuan Wu, Yu-Gang Jiang  
@@ -55,11 +63,6 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
   [\[Paper\]](https://arxiv.org/abs/2310.10647)
 
 ## Arxiv Preprints
-
-- **Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**  
-  **Haoran Chen**, Ping Wang, Zihan Zhou, Xu Zhang, Zuxuan Wu, Yu-Gang Jiang  
-  [\[Paper\]](https://arxiv.org/abs/2503.07979)
-
 
 - **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
   Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
