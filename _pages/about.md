@@ -64,6 +64,10 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 ## Arxiv Preprints
 
+- **Multi-Prompt Progressive Alignment for Multi-Source Unsupervised Domain Adaptation**  
+  **Haoran Chen**, Zexiao Wang, Haidong Cao, Zuxuan Wu, Yu-Gang Jiang  
+  [\[Paper\]](https://arxiv.org/abs/2507.23373)
+
 - **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
   Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
   [\[Paper\]](https://arxiv.org/abs/2411.19466)
