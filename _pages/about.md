@@ -13,6 +13,7 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 ## News
 
+- **2025.09**: One paper accepted at NeurIPS 2025!
 - **2025.06**: One paper accepted at ICCV 2025!
 - **2025.02**: One paper accepted at CVPR 2025!
 - **2025.01**: One paper accepted at ICLR 2025!
@@ -47,6 +48,10 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
   Neural Information Processing Systems (**NeurIPS**), 2023  
   [\[Paper\]](https://arxiv.org/abs/2209.15210) [\[Code\]](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
 
+- **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
+  Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
+  Neural Information Processing Systems (**NeurIPS**), 2025  
+  [\[Paper\]](https://arxiv.org/abs/2411.19466)
 
 
 - **EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation**  
@@ -67,9 +72,7 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
   **Haoran Chen**, Zexiao Wang, Haidong Cao, Zuxuan Wu, Yu-Gang Jiang  
   [\[Paper\]](https://arxiv.org/abs/2507.23373)
 
-- **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
-  Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
-  [\[Paper\]](https://arxiv.org/abs/2411.19466)
+
 
 
 
