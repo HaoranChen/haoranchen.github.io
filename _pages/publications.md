@@ -30,6 +30,11 @@ author_profile: true
   [\[Paper\]](https://arxiv.org/abs/2209.15210) [\[Code\]](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
 
 
+- **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
+  Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
+  Neural Information Processing Systems (**NeurIPS**), 2025  
+  [\[Paper\]](https://arxiv.org/abs/2411.19466)
+
 
 - **EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation**  
   Zihao Zhang, **Haoran Chen**, Haoyu Zhao, Guansong Lu, Yanwei Fu, Hang Xu, Zuxuan Wu  
@@ -49,6 +54,4 @@ author_profile: true
   **Haoran Chen**, Zexiao Wang, Haidong Cao, Zuxuan Wu, Yu-Gang Jiang  
   [\[Paper\]](https://arxiv.org/abs/2507.23373)
 
-- **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
-  Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
-  [\[Paper\]](https://arxiv.org/abs/2411.19466)
+
