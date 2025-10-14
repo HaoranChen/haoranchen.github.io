@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the School of Computer Science, Fudan University, where I work under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from the University of Michigan. My research centers on computer vision, with particular emphasis on **image and video understanding**, **vision–language models**, and **large multimodal models**. In addition, I am deeply interested in **AI for Science**. If you are interested in potential collaborations, please feel free to [email](https://haoranchen.github.io/contact/) me.
+I am a Ph.D. Candidate at the School of Computer Science, Fudan University, where I work under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from the University of Michigan. My research centers on computer vision, with particular emphasis on **transfer learning** and **continual learning**. In the long term, I seek to extend continual learning principles to broader AI systems and tasks, as I believe this represents a crucial step toward achieving artificial general intelligence. If you are interested in potential collaborations, please feel free to [email](https://haoranchen.github.io/contact/) me.
 
 
 
