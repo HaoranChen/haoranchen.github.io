@@ -16,7 +16,6 @@ author_profile: true
   [\[Paper\]](https://arxiv.org/abs/2405.14318v4) [\[Code\]](https://github.com/HaoranChen/Adaptive-Retention-and-Correction-for-Continual-Learning)
 
 
-
 - **PromptFusion: Decoupling Stability and Plasticity for Continual Learning**  
   **Haoran Chen**, Xintong Han, Menglin Jia, Zuxuan Wu, Yu-Gang Jiang  
   European Conference on Computer Vision (**ECCV**), 2024  
@@ -32,7 +31,7 @@ author_profile: true
 
 - **Human2Robot: Learning Robot Actions from Paired Human-Robot Videos**  
   Sicheng Xie, Haidong Cao, Zejia Weng, Zhen Xing, **Haoran Chen**, Shiwei Shen, Jiaqi Leng, Zuxuan Wu, Yu-Gang Jiang, 2026  
-  The Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026  
+  The Association for the Advancement of Artificial Intelligence (**AAAI**), 2026  
   [\[Paper\]](https://arxiv.org/abs/2209.15210)
 
   
