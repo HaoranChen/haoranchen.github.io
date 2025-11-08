@@ -51,7 +51,7 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 - **Human2Robot: Learning Robot Actions from Paired Human-Robot Videos**  
   Sicheng Xie, Haidong Cao, Zejia Weng, Zhen Xing, **Haoran Chen**, Shiwei Shen, Jiaqi Leng, Zuxuan Wu, Yu-Gang Jiang, 2026  
-  The Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026  
+  The Association for the Advancement of Artificial Intelligence (**AAAI**), 2026  
   [\[Paper\]](https://arxiv.org/abs/2209.15210) 
 
 - **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
