@@ -13,6 +13,7 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 ## News
 
+- **2025.11**: One paper accepted at AAAI 2026 (Oral)!
 - **2025.09**: One paper accepted at NeurIPS 2025!
 - **2025.06**: One paper accepted at ICCV 2025!
 - **2025.02**: One paper accepted at CVPR 2025!
@@ -48,17 +49,21 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
   Neural Information Processing Systems (**NeurIPS**), 2023  
   [\[Paper\]](https://arxiv.org/abs/2209.15210) [\[Code\]](https://github.com/HaoranChen/Multi-Prompt-Alignment-for-MSUDA)
 
+- **Human2Robot: Learning Robot Actions from Paired Human-Robot Videos**  
+  Sicheng Xie, Haidong Cao, Zejia Weng, Zhen Xing, **Haoran Chen**, Shiwei Shen, Jiaqi Leng, Zuxuan Wu, Yu-Gang Jiang, 2026  
+  The Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026  
+  [\[Paper\]](https://arxiv.org/abs/2209.15210) 
+
 - **ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection**  
   Zhihao Sun, Haoran Jiang, **Haoran Chen**, Yixin Cao, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang  
   Neural Information Processing Systems (**NeurIPS**), 2025  
-  [\[Paper\]](https://arxiv.org/abs/2411.19466)
+  [\[Paper\]](https://arxiv.org/abs/2502.16587)
 
 
 - **EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation**  
   Zihao Zhang, **Haoran Chen**, Haoyu Zhao, Guansong Lu, Yanwei Fu, Hang Xu, Zuxuan Wu  
   The IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2025  
   [\[Paper\]](https://arxiv.org/abs/2503.15831) [\[Code\]](https://github.com/bbldCVer/EDEN)
-
 
 
 - **A Survey on Video Diffusion Models**  
