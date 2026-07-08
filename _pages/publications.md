@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping**  
+  Haoyu Zhao, Jiaxi Gu, **Haoran Chen**, Qingping Zheng, Yeying Jin, Hongyi Yang, Junqi Cheng, Yuang Zhang, Zenghui Lu, Huan Yu, Jie Jiang, Peng Shu, Zuxuan Wu, Yu-Gang Jiang  
+  The International Conference on Machine Learning (**ICML**), 2026  
+  [\[Paper\]](https://arxiv.org/abs/2605.30774)
+  
 - **Human2Robot: Learning Robot Actions from Paired Human-Robot Videos**  
   Sicheng Xie, Haidong Cao, Zejia Weng, Zhen Xing, **Haoran Chen**, Shiwei Shen, Jiaqi Leng, Zuxuan Wu, Yu-Gang Jiang, 2026  
   The Association for the Advancement of Artificial Intelligence (**AAAI**), 2026  
