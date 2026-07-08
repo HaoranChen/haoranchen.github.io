@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the School of Computer Science, Fudan University, where I work under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from the University of Michigan. My research centers on computer vision, with particular emphasis on **transfer learning** and **continual learning**. In the long term, I seek to extend continual learning principles to broader AI systems and tasks, as I believe this represents a crucial step toward achieving artificial general intelligence. If you are interested in potential collaborations, please feel free to [email](https://haoranchen.github.io/contact/) me.
+I am a postdoctoral associate at the University of Maryland, College Park working with Prof. [Tom Goldstein](https://www.cs.umd.edu/~tomg/) and Prof. [Furong Huang](https://furong-huang.com/). I received my Ph.D. at the School of Computer Science, Fudan University, where I work under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from the University of Michigan. My research centers on computer vision, with particular emphasis on **transfer learning** and **continual learning**. In the long term, I seek to extend continual learning principles to broader AI systems and tasks, as I believe this represents a crucial step toward achieving artificial general intelligence. If you are interested in potential collaborations, please feel free to [email](https://haoranchen.github.io/contact/) me.
 
 
 
 ## News
 
+- **2026.04**: One paper accepted at ICML 2026!
 - **2025.11**: One paper accepted at AAAI 2026 (Oral)!
 - **2025.09**: One paper accepted at NeurIPS 2025!
 - **2025.06**: One paper accepted at ICCV 2025!
@@ -24,6 +25,11 @@ I am a Ph.D. Candidate at the School of Computer Science, Fudan University, wher
 
 ## Publications
 
+- **CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping**  
+  Haoyu Zhao, Jiaxi Gu, **Haoran Chen**, Qingping Zheng, Yeying Jin, Hongyi Yang, Junqi Cheng, Yuang Zhang, Zenghui Lu, Huan Yu, Jie Jiang, Peng Shu, Zuxuan Wu, Yu-Gang Jiang  
+  The International Conference on Machine Learning (**ICML**), 2026  
+  [\[Paper\]](https://arxiv.org/abs/2605.30774)
+  
 - **Human2Robot: Learning Robot Actions from Paired Human-Robot Videos**  
   Sicheng Xie, Haidong Cao, Zejia Weng, Zhen Xing, **Haoran Chen**, Shiwei Shen, Jiaqi Leng, Zuxuan Wu, Yu-Gang Jiang, 2026  
   The Association for the Advancement of Artificial Intelligence (**AAAI**), 2026  
