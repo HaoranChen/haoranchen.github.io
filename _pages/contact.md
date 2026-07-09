@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: [chenhran21@m.fudan.edu.cn](chenhran21@m.fudan.edu.cn)  
-Shanghai, China  
-Fudan University
+Email: [chenhr@umd.edu](chenhr@umd.edu)  
+College Park, MD, USA  
+University of Maryland, College Park
